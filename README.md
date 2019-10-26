@@ -6,7 +6,7 @@
 * FluiTec.AppFx.Cryptography : simplify common cryptography-tasks
 
 ### Build ###
-[![Build status](https://ci.appveyor.com/api/projects/status/3s86y0c7qojp63ym?svg=true)](https://ci.appveyor.com/project/IInvocation/fluitec-appfx-networking)
+[![Build status](https://ci.appveyor.com/api/projects/status/w71utwsmc4547uct?svg=true)](https://ci.appveyor.com/project/IInvocation/fluitec-appfx-cryptography)
 
 ### Nuget ###
 
