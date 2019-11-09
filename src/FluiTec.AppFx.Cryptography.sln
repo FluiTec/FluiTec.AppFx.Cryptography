@@ -7,6 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluiTec.AppFx.Cryptography"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluiTec.AppFx.Cryptography.Test", "FluiTec.AppFx.Cryptography.Test\FluiTec.AppFx.Cryptography.Test.csproj", "{E2EA1D37-2F66-4C45-97F7-B659AB848DF3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1DEEDB7F-E258-44B9-9A06-F64F1DBC40F4}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\LICENSE.md = ..\LICENSE.md
+		..\README.md = ..\README.md
+		..\THIRD_PARTY_LICENCES.md = ..\THIRD_PARTY_LICENCES.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
